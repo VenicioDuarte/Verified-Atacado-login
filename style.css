@@ -68,7 +68,7 @@ button:hover {
 }
 
 #errorMessage {
-    color: green;
+    color: #006400;
     margin-top: 10px;
     text-align: center;
 }
